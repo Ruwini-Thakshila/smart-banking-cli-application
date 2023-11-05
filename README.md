@@ -11,6 +11,9 @@ The Smart Banking CLI Application (Java) is a command-line tool designed to prov
 * Fund transfers between accounts
 * Transaction history viewing
 
+### Version
+0.1.0
+
 ### License
 Copyright &copy; 2023 DEP-11. All Rights Reserved.
 This project is licensed under the [MIT License](License.txt).
