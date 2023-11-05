@@ -5,10 +5,10 @@ The Smart Banking CLI Application (Java) is a command-line tool designed to prov
 
 ### Features
 * New Account opening
-* Withdrawing
-* Depositing
+* Cash withdrawing 
+* Cash Depositing
 * Account balance checking
-* Fund transfers between accounts
+* Cash transfers between accounts
 * Transaction history viewing
 
 ### Version
